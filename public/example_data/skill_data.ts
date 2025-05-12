@@ -35,7 +35,7 @@ const technicalSkill = [
           name: "Jquery",
           description:
             "Sử dụng thành thạo để thao tác giao diện, xử lý sự kiện.",
-          icon: "/images/Jquery.svg"
+          icon: "/images/jquery.svg"
         },
         {
           id: 6,
