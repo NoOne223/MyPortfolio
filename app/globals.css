@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #f5ebe0;
+  --color-secondary: #778da9;
+  --breakpoint-sm: 320px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  @apply text-xl;
+}
+
+.container{
+  @apply max-w-[1800px];
+}
