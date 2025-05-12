@@ -20,7 +20,7 @@ const technicalSkill = [
         {
             id: 3,
             name: "Sass",
-            description: "Tôi có thể sử dụng được Sass để tổ chức mã Css hiệu quả hơn.",
+            description: "Có thể sử dụng được Sass để tổ chức mã Css hiệu quả hơn.",
             icon: "/images/sass.svg"
         },
         {
